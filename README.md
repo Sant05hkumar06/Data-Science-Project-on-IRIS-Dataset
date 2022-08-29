@@ -8,3 +8,6 @@ https://sant05hkumar06.github.io/Data-Science-Projects/regression_model_for_hous
 
 
 https://sant05hkumar06.github.io/Data-Science-Projects/Classification_Model_for_Titanic_Dataset.ipynb is the link for Classification Model for Titanic Dataset
+
+
+https://sant05hkumar06.github.io/Data-Science-Projects/Tamil_Text_Data_Analysis.ipynb is the link for Tamil Sentiment Analysis
