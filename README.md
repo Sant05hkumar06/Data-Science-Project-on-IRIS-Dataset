@@ -11,3 +11,5 @@ https://sant05hkumar06.github.io/Data-Science-Projects/Classification_Model_for_
 
 
 https://sant05hkumar06.github.io/Data-Science-Projects/Tamil_Text_Data_Analysis.ipynb is the link for Tamil Sentiment Analysis
+
+https://sant05hkumar06.github.io/Data-Science-Projects/Assesment_project
